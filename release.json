@@ -1,0 +1,7 @@
+{
+	"releases": [{
+		"version": "23",
+        "minimumSystemVersion": "8"
+	}],
+    "minimumVersion": "23"
+}
